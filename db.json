@@ -1,0 +1,54 @@
+{
+  "admin": [
+    {
+      "id": 1,
+      "email": "admin@mail.com",
+      "password": "admin",
+      "username": "admin"
+    }
+  ],
+  "user": [
+    {
+      "id": 1,
+      "email": "moumita@mail.com",
+      "password": "1234",
+      "name": "moumita Sarkar"
+    },
+    {
+      "id": 2,
+      "email": "riya@mail.com",
+      "password": "4321",
+      "name": "riya sen"
+    },
+    {
+      "email": "ad@mail.com",
+      "password": "321",
+      "name": "Amit Das",
+      "id": 3
+    }
+  ],
+  "booking": [
+    {
+      "id": 1,
+      "name": "Ani Sen",
+      "age": 23,
+      "gender": "Female",
+      "useremail": "nhj@mail.com",
+      "location": "Kolkata",
+      "date": "12-05-2023",
+      "vaccine_type": "Covaxine",
+      "status": false
+    },
+    {
+      "name": "Priti Dey",
+      "age": "45",
+      "date": "2023-06-23",
+      "gender": "Female",
+      "location": "Kolkata",
+      "vaccine_type": "Nuvaxovid",
+      "status": false,
+      "useremail": "moumita@mail.com",
+      "id": 2
+    }
+  ]
+}
